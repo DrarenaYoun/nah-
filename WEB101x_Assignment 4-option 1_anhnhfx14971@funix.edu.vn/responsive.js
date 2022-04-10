@@ -1,5 +1,5 @@
 function menudd() {
-    var dd = document.getElementsByClassName("loai-banh")[0];
+    var dd = document.getElementById("menu")
     if (dd.style.display == "block") {
         dd.style.display = "none";
     } else {
