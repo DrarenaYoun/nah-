@@ -10,13 +10,6 @@
     #menu ul li {
         width: 75px;
     }
-    #menu ul li>.icon {
-        display: none;
-        position: absolute;
-    }
-    #menu ul li:hover .icon {
-        display: block;
-    }
     .title {
         font-size: 32px;
     }
