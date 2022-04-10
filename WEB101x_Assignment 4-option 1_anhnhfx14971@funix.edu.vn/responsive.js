@@ -1,5 +1,5 @@
 function menudd() {
-    var dd = document.getElementsByClassName("myMenu");
+    var dd = document.getElementsByClassName("menudd");
     if (dd.class == "menu") {
         dd.className += "responsive";
     } else {
