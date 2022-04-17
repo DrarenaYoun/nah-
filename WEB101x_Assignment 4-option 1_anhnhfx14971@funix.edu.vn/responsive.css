@@ -11,7 +11,7 @@
         font-size: 32px;
     }
     .font {
-        display: none !important;
+        visibility: hidden;
     }
     .cake-desc {
         display: none;
